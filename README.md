@@ -2,12 +2,6 @@
 
 A comprehensive dbt project using the Brazilian E-Commerce (Olist) dataset to demonstrate modern data transformation practices and analytics engineering patterns.
 
-### Live Recording
-- Day 1 - [Watch Here!](https://drive.google.com/file/d/1uJ53_IAPAotF2LRJo1TF5GH6E2AWqdVC/view?usp=drive_link)
-- Day 2 - [Watch Here!](https://drive.google.com/file/d/1d5PUryDLZtgElCymuvyZdmXkbUo9r_vS/view?usp=drive_link)
-- Day 3 - [Watch Here!](https://drive.google.com/file/d/1rip1P6TKtOGcrXB8O-AOoaDvnqC91gRL/view?usp=drive_link)
-- Day 4 - [Watch Here!](https://drive.google.com/file/d/1pze2XhRMp8SPZgKk_RsKtG0rZWh7UPuE/view?usp=drive_link)
-
 ## 📊 Dataset Overview
 
 **Source:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
