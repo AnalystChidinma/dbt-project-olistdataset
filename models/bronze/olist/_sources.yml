@@ -1,0 +1,13 @@
+sources:
+  - name: olist
+    database: snowflake_dbt
+    schema: etl_pipeline
+    tables:
+      - name: customers
+      - name: orders
+      - name: order_items
+      - name: products
+      - name: sellers
+      - name: payments
+      - name: reviews
+      - name: geolocation
