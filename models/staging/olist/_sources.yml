@@ -1,0 +1,33 @@
+version: 2
+
+sources:
+  - name: olist
+    database: SNOWFLAKE_DBT
+    schema: ETL_PIPELINE
+    description: "Raw Olist e-commerce dataset loaded into Snowflake"
+
+    tables:
+      - name: olist_customers
+        description: "Customer master data"
+
+      - name: olist_orders
+        description: "Order-level data"
+
+      - name: olist_order_items
+        description: "Line items per order"
+
+      - name: olist_order_payments
+        description: "Payment details per order"
+
+      - name: olist_order_reviews
+        description: "Customer reviews"
+
+      - name: olist_products
+        description: "Product catalog"
+
+      - name: olist_sellers
+        description: "Seller information"
+
+      - name: olist_geolocation
+        description: "Geolocation reference data"
+
