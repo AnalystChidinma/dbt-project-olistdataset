@@ -11,7 +11,7 @@ with dim_payment as(
 select 
     row_number() over (order by order_id) as payment_key,
             order_id,
-            payment_key,
+            payment_type,
             payment_installments,
             payment_value
 from dim_payment
